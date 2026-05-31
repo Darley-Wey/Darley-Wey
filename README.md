@@ -9,4 +9,5 @@ Engineer based in China. I build tools around visualization, the WeChat ecosyste
 ---
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darley-Wey&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darley-Wey&theme=default)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darley-Wey&theme=default)
